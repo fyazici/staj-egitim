@@ -20,6 +20,7 @@ function App() {
           Learn React
         </a>
         <MyComponent name="fatih">CHILD</MyComponent>
+        <MyComponent name="fatih">CHILD</MyComponent>
       </header>
     </div>
   );
